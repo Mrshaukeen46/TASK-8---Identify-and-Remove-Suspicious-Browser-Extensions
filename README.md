@@ -56,4 +56,4 @@ VPNs are critical tools for maintaining online privacy, preventing data intercep
 
 📅 **Task Completed:** Working with VPNs  
 👤 **Internship:** Cybersecurity Fundamentals – Elevate Labs  
-🏫 **Institution:** Albedo School of Business Education
+
