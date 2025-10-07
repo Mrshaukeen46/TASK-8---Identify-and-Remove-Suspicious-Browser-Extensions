@@ -1,6 +1,12 @@
 # TASK-8---Identify-and-Remove-Suspicious-Browser-Extensions
 # 🌐 Task 8: Working with VPNs
 
+
+# / code : [isp*vmapisolated[255×192]ipconfig /all] 
+(GitHub["*"] mobile]
+python(255×192)("*"))
+"Hello world"
+
 ## 🎯 Objective
 Understand the role of Virtual Private Networks (VPNs) in enhancing privacy and securing online communications by encrypting traffic and masking IP addresses.
 
